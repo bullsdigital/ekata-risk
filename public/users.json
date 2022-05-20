@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "firstName": "Matt",
+      "lastName": "Moreno",
+      "address1": "216 Blackhawk Ter",
+      "address2": "Unit 123",
+      "city": "Bensenville",
+      "state": "IL",
+      "zip": "60601",
+      "phone": "8154413121",
+      "email": "mattmoreno@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Kim",
+      "lastName": "Moreno",
+      "address1": "216 Blackhawk Ter",
+      "address2": "",
+      "city": "Bensenville",
+      "state": "IL",
+      "zip": "60601",
+      "phone": "3125042136",
+      "email": "kattkisson@gmail.com"
+    }
+]
